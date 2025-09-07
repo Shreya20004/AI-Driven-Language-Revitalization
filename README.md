@@ -1,2 +1,3 @@
-# AI-Driven-Language-Revitalization
-AI-driven platform for language revitalization. Uses NLP, speech tech, and cultural datasets to preserve, teach, and promote endangered languages. Enables text/audio processing, interactive learning tools, and community-driven contributions for sustainable linguistic heritage.
+# Translation_En-Mw
+An English To marwari Translatoin Database and Machine Learning Model
+
